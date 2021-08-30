@@ -9,7 +9,7 @@ const Hero = (props) => {
   return(
           <div className="hero-image">
             <div className="content">
-             <a href="/" style={{textDecoration:"none!important;"}}> <span className="title">React<span>Blog</span></span></a>
+             <a href="/" style={{textDecoration:"none!important;"}}> <span className="title">Dhiraj<span>Sahu</span></span></a>
             </div>
           </div>
    )
